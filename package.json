@@ -45,7 +45,9 @@
     "distribution",
     "README.md"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "snicksnack": "^0.0.2"
+  },
   "bin": {
     "snicksnack-cli": "./distribution/binary/cli.js"
   }
