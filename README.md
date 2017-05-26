@@ -2,6 +2,8 @@
 
 cli for the [snicksnack](https://www.npmjs.com/package/snicksnack) module.
 
+## installation
+
 ```
 npm i -g snicksnack-cli
 ```
@@ -9,5 +11,16 @@ npm i -g snicksnack-cli
 ## usage
 
 ```
-snicksnack -h
+Usage: snicksnack [options] [command]
+
+Commands:
+
+  words|w <number>      output <number> of words
+  sentences|s <number>  output <number> of sentences
+
+Options:
+
+  -h, --help       output usage information
+  -V, --version    output the version number
+  -c, --clipboard  output to clipboard
 ```
