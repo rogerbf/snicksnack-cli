@@ -59,5 +59,13 @@
   },
   "bin": {
     "snicksnack": "./distribution/binary/cli.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerbf/snicksnack-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogerbf/snicksnack-cli/issues"
+  },
+  "homepage": "https://github.com/rogerbf/snicksnack-cli#readme"
 }
