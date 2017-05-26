@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-const main = require(`../index`)
+const snicksnack = require(`snicksnack`)
+const commander = require(`commander`)
+
