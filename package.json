@@ -46,6 +46,7 @@
     "README.md"
   ],
   "dependencies": {
+    "clipboardy": "^1.1.2",
     "commander": "^2.9.0",
     "snicksnack": "^0.0.2"
   },
