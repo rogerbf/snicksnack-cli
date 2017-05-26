@@ -58,6 +58,6 @@
     "snicksnack": "^0.0.2"
   },
   "bin": {
-    "snicksnack-cli": "./distribution/binary/cli.js"
+    "snicksnack": "./distribution/binary/cli.js"
   }
 }
