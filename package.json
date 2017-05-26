@@ -46,6 +46,7 @@
     "README.md"
   ],
   "dependencies": {
+    "commander": "^2.9.0",
     "snicksnack": "^0.0.2"
   },
   "bin": {
