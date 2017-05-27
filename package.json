@@ -1,6 +1,6 @@
 {
   "name": "snicksnack-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cli for snicksnack, a filler text generator",
   "main": "./distribution/index.js",
   "scripts": {
