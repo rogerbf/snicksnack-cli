@@ -1,6 +1,6 @@
 # snicksnack-cli
 
-cli for the [snicksnack](https://www.npmjs.com/package/snicksnack) module.
+CLI for the [snicksnack](https://www.npmjs.com/package/snicksnack) module. Generate filler text in swedish, output to stdout or the clipboard.
 
 ## installation
 
