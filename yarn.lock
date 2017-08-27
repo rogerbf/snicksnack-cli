@@ -2321,6 +2321,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.3.6"
 
+kelly-lists@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/kelly-lists/-/kelly-lists-1.0.1.tgz#7a75ac2b35f4206cde93a734fec19312c20d219e"
+
 kind-of@^3.0.2:
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-3.2.2.tgz#31ea21a734bab9bbb0f32466d893aea51e4a3c64"
@@ -3087,10 +3091,11 @@ slice-ansi@0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/slice-ansi/-/slice-ansi-0.0.4.tgz#edbf8903f66f7ce2f8eafd6ceed65e264c831b35"
 
-snicksnack@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/snicksnack/-/snicksnack-0.0.2.tgz#ebd78dd53d6b87e1b98c12aebc85c511e3ce51c5"
+snicksnack@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/snicksnack/-/snicksnack-1.0.0.tgz#d787a3c5497175095fa95e8cd1398064b458ebcd"
   dependencies:
+    kelly-lists "1.0.1"
     prob.js "^1.0.6"
 
 sntp@1.x.x:
