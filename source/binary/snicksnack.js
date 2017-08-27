@@ -2,6 +2,7 @@
 const snicksnack = require(`snicksnack`)
 const application = require(`commander`)
 const clipboard = require(`clipboardy`)
+const { version } = require(`../../package`)
 
 const output = data =>
   application.clipboard
@@ -9,7 +10,7 @@ const output = data =>
   : console.log(data)
 
 application
-.version(`1.0.2`)
+.version(version)
 .option(`-c, --clipboard`, `output to clipboard`)
 
 application
