@@ -1,6 +1,6 @@
 {
   "name": "snicksnack-cli",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "cli for snicksnack, a filler text generator",
   "main": "./distribution/index.js",
   "scripts": {
@@ -55,7 +55,7 @@
   "dependencies": {
     "clipboardy": "^1.1.2",
     "commander": "^2.9.0",
-    "snicksnack": "^0.0.2"
+    "snicksnack": "^1.0.0"
   },
   "bin": {
     "snicksnack": "./distribution/binary/snicksnack.js"
